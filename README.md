@@ -1,4 +1,4 @@
-# School Coursework for Forecasting（Forecast monthly behaviour until December 2025）
+# School Coursework for Forecasting（Forecast monthly data until December 2025）
 School project that uses data sets from the United Nations Climate Change Conference(UNCCC) to predict corresponding values for next year.
 Data downloaded from the United Nations Climate Change Conference.
 
